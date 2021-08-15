@@ -1,12 +1,26 @@
-# veloclubdevis
+# Velo Club de VIS - Jersey Design 2021
 
 <!---
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
  --->
 
-Ideally I would like the squares on the warped checker boards to be about the same size on sleeves, pockets and sides.
+Hi James / PRIMAL - here is the artwork for the jerseys.
+
+Ideally I would like the squares on the warped checker boards to be about the same size on the _sleeves_, _pockets_ and _sides_.
 
 This is quite hard to get right, but do your best!
+
+Each image should link to a 288dpi PNG - just right click and download.
+
+Please send any questions or requests to **my mobile** as I am on vacation and not checking email.
+
+We need to get everything finalised and online by the end of the week!
+
+Hope this helps.
+
+J.
+
+---
 
 ### COLLAR
 
@@ -103,7 +117,7 @@ It should be mostly within the red lines, but **BIG** like this:
 
 <img width="80%" src="PRIMALdesigns/vis2021.back.PRIMAL.png"/>
 
-And then,  I also want the pockets to have a different design on them. In fact I want this design to go just above the pockets, as shown here with this slightly transparent version to show positioning  .
+And then,  I also want the pockets to have a different design on them. In fact I want this design to go just above the pockets, as shown here with this slightly transparent version to show positioning.
 
 <img width="80%" src="PRIMALdesigns/visLogo.2021.POCKETS.PRIMAL.v1.png"/>
 
@@ -115,9 +129,10 @@ Here's the pocket / above pocket artwork:
 
 [visLogo.2021.POCKETS.VIS.png](PRIMALdesigns/visLogo.2021.POCKETS.VIS.png)
 
-_I can send vector art for this bit if this would make things easier_.
+_I can send vector art for this bit if this woul  d make things easier_.
 
 The final thing should be positioned like this.
+<br/>Notice that the grid starts exactly half way through a line of big circles!<br/>_That's important!_
 
 <img width="80%" src="PRIMALdesigns/visLogo.2021.BACK.PRIMAL.png"/>
 
@@ -128,3 +143,20 @@ Here's a full mock up in case this is easier to fit:
 [visLogo.2021.BACK.VIS.png](PRIMALdesigns/visLogo.2021.BACK.VIS.png)
 
 ### FRONT
+
+OK - here's the front!
+
+<img width="80%" src="PRIMALdesigns/visLogo.2021.FRONT.VIS.png"/>
+
+[visLogo.2021.FRONT.VIS.png](PRIMALdesigns/visLogo.2021.FRONT.VIS.png)
+
+And here's how it should fit with your template.
+
+<img width="80%" src="PRIMALdesigns/visLogo.2021.FRONT.PRIMAL.png"/>
+
+The **V** of Velo and the **21** need to be just about within the red.
+
+---
+
+Jason **DYKES**
+<br/>12/08/15

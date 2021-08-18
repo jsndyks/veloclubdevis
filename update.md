@@ -78,7 +78,7 @@ Can you get your **PRIMAL** logos aligned with out 16 circles logo! It looks a b
 
 Can it go here?!
 
-<img width="80%" src="PRIMALdesigns/primalLOGO.png"/>
+<img width="25%" src="PRIMALdesigns/primalLOGO.png"/>
 
 
 ### Annotations

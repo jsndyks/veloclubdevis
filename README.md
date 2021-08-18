@@ -4,6 +4,12 @@
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
  --->
 
+Great work so far!
+
+[UPDATE on 18th August is HERE!](update.md)
+
+---
+
 Hi James / PRIMAL - here is the artwork for the jerseys.
 
 In most cases I show the PRIMAL patterns superimposed over the designs - but the idea is that you download the PNG graphics and add them to your templates as shown.
@@ -164,7 +170,7 @@ Here's the pocket / above pocket artwork:
 
 [visLogo.2021.POCKETS.VIS.png](PRIMALdesigns/visLogo.2021.POCKETS.VIS.png)
 
-_I can send vector art for this bit if this woul  d make things easier_.
+_I can send vector art for this bit if this would make things easier_.
 
 The final thing should be positioned like this.
 <br/>Notice that the grid starts exactly half way through a line of big circles!<br/>_That's important!_

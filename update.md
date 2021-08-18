@@ -72,6 +72,14 @@ For the semi-opaque look on the the blocks I use:
 * #F2C549 @ 80% opacity (gold)
 * #448344 @ 80% opacity (green)
 
+### PRIMAL
+
+Can you get your **PRIMAL** logos aligned with out 16 circles logo! It looks a bit messy with it just plonked on top haphazard.
+
+Can it go here?!
+
+<img width="80%" src="PRIMALdesigns/primalLOGO.png"/>
+
 
 ### Annotations
 

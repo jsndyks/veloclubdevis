@@ -4,11 +4,15 @@
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
  --->
 
+#### UPDATE 210818
+
 Great work so far!
 
 [UPDATE on 18th August is HERE!](update.md)
 
 ---
+
+#### ORIGINAL MESSAGE 210815
 
 Hi James / PRIMAL - here is the artwork for the jerseys.
 
@@ -200,4 +204,4 @@ The **V** of Velo and the **21** need to be just about within the red lines on t
 ---
 
 Jason **DYKES**
-<br/>12/08/15
+<br/>15/08/21

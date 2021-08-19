@@ -1,4 +1,4 @@
-# Velo Club de VIS - Jersey Design 2021 - **UPDATE**
+# Velo Club de VIS - Jersey Design 2021 - **UPDATE 210818**
 
 
 ### OVERALL
@@ -28,6 +28,24 @@ You may need to reduce the size of everything a little to achieve this, but I wo
 
 If you make this a little smaller than the first version we should fit all of the text on the jersey and get more of the orange and yellow at the sides in too, while keeping the black text at the bottom!
 
+#### Without IEEEVIS NOLA21
+
+Just in case, here is the design without that text ...
+
+<img width="80%" src="PRIMALdesigns/visLogo.2021.gradient.FRONT.v6.noNO21LA.png"/>
+
+[visLogo.2021.gradient.FRONT.v6.noNO21LA.png](PRIMALdesigns/visLogo.2021.gradient.FRONT.v6.noNO21LA.png)
+
+... and here is the text to be added!
+
+<img width="80%" src="PRIMALdesigns/visLogo.2021.gradient.FRONT.v6.NO21LA.png"/>
+
+[visLogo.2021.gradient.FRONT.v6.NO21LA.png](PRIMALdesigns/visLogo.2021.gradient.FRONT.v6.NO21LA.png)
+
+Just make sure the text is at the bottom of the jersey, right aligned and aligned nicely with the 16 circle VIS logos!
+
+Sorry to sound so fussy!
+
 ### Shoulders
 
 Can you add a **new TUNDRA TOUCAN** logo to the very top of the shoulder - above VIS and just before it bends.
@@ -43,9 +61,9 @@ Here is a mock-up
 
 Here is the logo.<br/> I added it at 50% opacity and centred it on one of the VIS logos in the mock up - do try to get this alignment correct please!
 
-<img width="80%" src="PRIMALdesigns/Toucan transparent [grey].288.png"/>
+<img width="80%" src="PRIMALdesigns/ToucanTransparentGrey.288.png"/>
 
-[Toucan transparent [grey].288.png](PRIMALdesigns/Toucan transparent [grey].288.png)
+[ToucanTransparentGrey.288.png](PRIMALdesigns/ToucanTransparentGrey.288.png)
 
 
 ### Pockets
@@ -94,4 +112,4 @@ Jason.
 ---
 
 Jason **DYKES**
-<br/>21/08/18
+<br/>18/08/21

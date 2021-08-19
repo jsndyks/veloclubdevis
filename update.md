@@ -68,7 +68,17 @@ Here is the logo.<br/> I added it at 50% opacity and centred it on one of the VI
 
 ### Pockets
 
-I also want some extra text on the bottom of the pocket - looks like there is room!
+I'd like to replace :
+
+* <code>VELO CLUB DE VIS</code>
+
+... with ...
+
+* <code>@VELOCLUBDEVIS</code>
+
+... as shown please!
+
+I also want some **extra text** on the bottom of the pocket - looks like there is room!
 
 <img width="80%" src="PRIMALdesigns/visLogo.2021.POCKETS.v2.png"/>
 

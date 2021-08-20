@@ -57,7 +57,7 @@ Here is a mock-up
 
 <img width="80%" src="PRIMALdesigns/vis2021.shoulder.VIS.v2.png"/>
 
-[visLogo.2021.COLLAR.v1.png](PRIMALdesigns/vis2021.shoulder.VIS.v2.png)
+[vis2021.shoulder.VIS.v2.png](PRIMALdesigns/vis2021.shoulder.VIS.v2.png)
 
 Here is the logo.<br/> I added it at 50% opacity and centred it on one of the VIS logos in the mock up - do try to get this alignment correct please!
 

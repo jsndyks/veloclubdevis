@@ -4,6 +4,20 @@
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
  --->
 
+ #### UPDATE 210820
+
+Excellent work! Looking good.
+Two minor changes needed!
+
+ * add hashtag to shoulder, move **TUNDRATOUCAN**
+ * increase contrast on back pocket warped check pattern
+
+I have provided [a page with links to files](update2.md) for both changes.
+
+[UPDATE on 20th August is HERE!](update2.md)
+
+ ---
+
 #### UPDATE 210818
 
 Great work so far!

@@ -68,9 +68,9 @@ For the semi-opaque look on the the blocks I use:
 
 If you need the text - as this is 100% opaque but the blocks are 80% - then the text shapes are here, to be added at 100% opacity :
 
-<img width="80%" src="PRIMALdesigns/visLogo.2021.POCKETS.v3.NO21LA.noBLOCKS.png"/>
+<img width="80%" src="PRIMALdesigns/visLogo.2021.POCKETS.v3.NO21LA.noBlocks.png"/>
 
-[visLogo.2021.POCKETS.v3.NO21LA.noBLOCKS.png](PRIMALdesigns/visLogo.2021.POCKETS.v3.NO21LA.noBLOCKS.png)
+[visLogo.2021.POCKETS.v3.NO21LA.noBlocks.png](PRIMALdesigns/visLogo.2021.POCKETS.v3.NO21LA.noBlocks.png)
 
 Obviously **NO** and **LA** need to be white!
 

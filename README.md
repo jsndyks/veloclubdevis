@@ -9,11 +9,11 @@
 Excellent work! Looking good.
 Three minor changes needed!
 
- * add hashtag to shoulder, move **TUNDRATOUCAN**
- * increase contrast on back pocket warped check pattern
- * align back image and change to more colourful version _if this is easy_
+ 1. add hashtag to shoulder, move **TUNDRATOUCAN**
+ 2. increase contrast on back pocket warped check pattern
+ 3. align back image and change to more colourful version _if this is easy_
 
-I have provided [a page with links to files](update2.md) for both changes.
+I have provided [a page with links to files](update2.md) for all three changes.
 
 [UPDATE on 20th August is HERE!](update2.md)
 

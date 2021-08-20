@@ -5,8 +5,9 @@
 
 WOW **YOU SMASHED IT OUT OF THE PARK** _THANKS SO MUCH_!!
 
-FINAL issues - both my fault as I gave you an undersaturated check for the pockets and forgot a hash tag.
+FINAL issues - two are my fault as I gave you an undersaturated check for the pockets and forgot a hash tag.
 
+PLUS - I would quite like the back image updated to add more colour.
 
 
 ### Shoulders
@@ -72,6 +73,23 @@ If you need the text - as this is 100% opaque but the blocks are 80% - then the 
 [visLogo.2021.POCKETS.v3.NO21LA.noBLOCKS.png](PRIMALdesigns/visLogo.2021.POCKETS.v3.NO21LA.noBLOCKS.png)
 
 Obviously **NO** and **LA** need to be white!
+
+### Back
+
+I like the size, but ...
+
+Are you sure the 16 circle VIS logo is centrally aligned on the back?!
+
+And ...
+
+_If it is easy_, can you update the back image layer to look like this?
+
+More colour!
+
+<img width="80%" src="PRIMALdesigns/vis2021.back.VIS.v5.png"/>
+
+[vis2021.back.VIS.v5.png ](PRIMALdesigns/vis2021.back.VIS.v5.png)
+
 
 ---
 

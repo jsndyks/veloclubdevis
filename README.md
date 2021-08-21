@@ -4,6 +4,18 @@
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
  --->
 
+ ---
+
+#### UPDATE 210821
+
+Excellent - thanks.
+
+More comments here - on cap and sleeves!
+
+[UPDATE on 21st August is HERE!](update3.md)
+
+---
+
  #### UPDATE 210820
 
 Excellent work! Looking good.

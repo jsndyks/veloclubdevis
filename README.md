@@ -6,6 +6,17 @@
 
  ---
 
+#### UPDATE 210823
+
+Oh no - the coloured blocks are not opaque and there are a few errors and inconsistencies.
+
+I hope you can fix these.
+
+[UPDATE on 23rd August is HERE!](update4.md)
+
+---
+
+
 #### UPDATE 210821
 
 Excellent - thanks.

@@ -23,7 +23,14 @@ _Here is the mock-up - blocks are opaque and sleeve blocks have a white line bet
 
 <img width="50%" src="PRIMALdesigns/visJersey.colouredBlocksAre100Opaque.png"/>
 
-Here is how all the blocks should look - 80% opaque and separated by a gap and not a white space.
+Here is how **all the blocks** should look - 80% opaque and separated by a gap and not a white space.
+This is the case on :
+ * jersey sleeves
+ * separate sleeves
+ * pockets
+ * side panels
+ * collar
+ * everything!
 
 <img width="80%" src="PRIMALdesigns/visJersey.colouredBlocksAre80Opaque.png"/>
 
@@ -32,7 +39,7 @@ But now they are completely opaque!
 This also needs fixing please.
 
 Actually I have just noticed that the side panels look OK on the jersey itself, but are wrong on the side panel inset.
-This inconsistency is pretty confusing. See below.
+_This inconsistency is pretty confusing_. See below.
 
 <img width="50%" src="PRIMALdesigns/visJersey.longSleeve.sidePanels.annotated.png"/>
 

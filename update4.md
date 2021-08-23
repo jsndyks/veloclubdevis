@@ -31,6 +31,12 @@ In your original design the side panels and back pocket were correct - as shown 
 But now they are completely opaque!
 This also needs fixing please.
 
+Actually I have just noticed that the side panels look OK on the jersey itself, but are wrong on the side panel inset.
+This inconsistency is pretty confusing. See below.
+
+<img width="80%" src="PRIMALdesigns/visJersey.longSleeve.sidePanels.annotated.png"/>
+
+
 The colours and text are provided in [update 2](https://github.com/jsndyks/veloclubdevis/blob/main/update2.md) under the **Pockets** section and should enable you to get 80% opaque coloured blocks containing 100% opaque text pretty easily.
 
 Actually, I'll add the information here again...

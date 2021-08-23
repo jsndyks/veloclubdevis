@@ -21,11 +21,11 @@ I need 80% opaque colour and 100% opaque text.
 
 _Here is the mock-up - blocks are opaque and sleeve blocks have a white line between them : **WRONG!**_
 
-<img width="80%" src="PRIMALdesigns/visJersey.colouredBlocksAre100%Opaque.png"/>
+<img width="80%" src="PRIMALdesigns/visJersey.colouredBlocksAre100Opaque.png"/>
 
 Here is how all the blocks should look - 80% opaque and separated by a gap and not a white space.
 
-<img width="80%" src="PRIMALdesigns/visJersey.colouredBlocksAre80%Opaque.png"/>
+<img width="80%" src="PRIMALdesigns/visJersey.colouredBlocksAre80Opaque.png"/>
 
 In your original design the side panels and back pocket were correct - as shown in the image above.
 But now they are completely opaque!

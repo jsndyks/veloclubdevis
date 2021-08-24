@@ -10,6 +10,10 @@
 
 All looks great, again in many ways, BUT… there seem to be a few mistakes and these need fixing!
 
+## ESSENTIAL CHANGES!
+
+These are essential!
+
 ### COLOURED BLOCK LOGOS
 
 I just noticed that the SQUARE logos on the sleeves have white spacers between them.
@@ -109,9 +113,77 @@ The mock-up shows this to be missing on the left side panel of the long sleeved 
 
 ---
 
+## NON-ESSENTIAL CHANGES!
+
+These are things to try if it's quick!!
+I don't care too much, they are just ideas. for the cap.
+
+### CAP
+
+The cap is OK (other than the fully opaque coloured blocks).
+But here is how I'd like it ... to make it **GREAT** ... just in case this is easy and you have time!
+
+##### SIDES
+
+<img width="80%" src="PRIMALdesigns/vis2021.CAP.sides.v1.72.png"/>
+
+[vis2021.CAP.sides.v1.png](PRIMALdesigns/vis2021.CAP.sides.v1.72.png)
+
+Make the VIS logo as big as you can.
+OK to lose some of the tips of the spikes at the bottom, but make sure we can see some red spikes!
+
+Here is an SVG that may help!
+
+[visLogo.2021.CAP.v1.svg](PRIMALdesigns/visLogo.2021.CAP.v1.svg)
+
+
+
+##### MIDDLE (TOP)
+
+The checkered pattern would look good on the top, with **21** and the _16 circle VIS logo_ and the darker pattern at the front, and **NOLA** at the back.
+
+<img width="80%" src="PRIMALdesigns/vis2021.CAP.middle.v1.72.png"/>
+
+[vis2021.CAP.middle.v1.png](PRIMALdesigns/vis2021.CAP.middle.v1.png)
+
+It's hard for me to know what the dimensions are!
+
+This would be a good alternative!
+
+<img width="80%" src="PRIMALdesigns/vis2021.CAP.middle.alt.72.png"/>
+
+[vis2021.CAP.middle.alt.png](PRIMALdesigns/vis2021.CAP.middle.alt.png)
+
+
+##### BILL
+
+The bill can have the two _hash tags_ on top and the _twitter handle_ on the bottom - using your yellow and purple colours (nice) but this text ...
+
+<img width="80%" src="PRIMALdesigns/vis2021.CAP.bill.top.v2.png"/>
+
+[vis2021.CAP.bill.top.v2.png](PRIMALdesigns/vis2021.CAP.bill.top.v2.png)
+
+
+<img width="80%" src="PRIMALdesigns/vis2021.CAP.bill.underside.v2.png"/>
+
+[vis2021.CAP.bill.underside.v2.png](PRIMALdesigns/vis2021.CAP.bill.underside.v2.png)
+
+##### SVG
+
+Here is an SVG with everything in it - see layers!
+
+[visLogo.2021.CAP.v2.svg](PRIMALdesigns/visLogo.2021.CAP.v2.svg)
+
+I hope this works - generated with [InkScape](https://inkscape.org/).
+
+
+You'll see that I am using [SCRATCHIES](https://www.dafont.com/scratchies.font) font.
+
+---
+
 Thanks,
 
-Hope you can sort these out and we can set up the shop!
+Hope you can sort out the **ESSENTIAL CHANGES** and maybe consider the **NON ESSENTIAL CHANGES** and we can set up the shop!
 
 Jason.
 

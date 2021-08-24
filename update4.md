@@ -18,20 +18,21 @@ These are essential!
 
 I just noticed that the SQUARE logos on the sleeves have white spacers between them.
 This is wrong - they should just have gaps like they do on the back pocket and collar.
-This is how they are shown in [the original jersey design spec](https://github.com/jsndyks/veloclubdevis).
+
+_This is how they are shown in [the original jersey design spec](https://github.com/jsndyks/veloclubdevis) as reproduced below._
 
 <img width="20%" src="PRIMALdesigns/visLogo.2021.SIDE.LEFT.v1.png"/>
 
 <img width="20%" src="PRIMALdesigns/visLogo.2021.SIDE.RIGHT.v1.png"/>
 
 
-I need that fixing - nasty error.
+I need that fixing - **nasty error**.
 
 Also, the SQUARE logos on the back pockets and sleeves are completely opaque.
 I need 80% opaque colour and 100% opaque text.
 See above and [the original jersey design spec](https://github.com/jsndyks/veloclubdevis) again.
 
-_Here is the mock-up - blocks are opaque and sleeve blocks have a white line between them : **WRONG!**_
+_Here is the mock-up - blocks are opaque and sleeve blocks have a white line between them : **WRONG!** **FIX!**_
 
 <img width="50%" src="PRIMALdesigns/visJersey.colouredBlocksAre100Opaque.png"/>
 
@@ -51,7 +52,7 @@ But now they are completely opaque!
 This also needs fixing please.
 
 Actually I have just noticed that the side panels look OK on the jersey itself, but are wrong on the side panel inset.
-_This inconsistency is pretty confusing_. See below.
+_This inconsistency is pretty confusing_. See annotated image below.
 
 <img width="50%" src="PRIMALdesigns/visJersey.longSleeve.sidePanels.annotated.png"/>
 

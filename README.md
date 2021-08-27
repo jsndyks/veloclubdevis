@@ -132,7 +132,7 @@ The designs are really for separate sleeves, but I hope you can make long sleeve
 This is the _cyclist's_ left sleeve.
 Lettering should be on the forearm.
 
-<img width="80%" src="PRIMALdesigns/visLogo.2021.SLEEVE.LEFT.v1.png"/>
+<img width="80%" src="PRIMALdesigns/visLogo.2021.SLEEVE.LEFT.v1.72.png"/>
 
 [visLogo.2021.SLEEVE.LEFT.v1.png](PRIMALdesigns/visLogo.2021.SLEEVE.LEFT.v1.png)
 
@@ -155,7 +155,7 @@ This may need to be added to the above background to make it small enough to fit
 This is the _cyclist's_ right sleeve.
 Lettering should be on the forearm.
 
-<img width="80%" src="PRIMALdesigns/visLogo.2021.SLEEVE.RIGHT.v1.png"/>
+<img width="80%" src="PRIMALdesigns/visLogo.2021.SLEEVE.RIGHT.v1.72.png"/>
 
 [visLogo.2021.SLEEVE.RIGHT.v1.png](PRIMALdesigns/visLogo.2021.SLEEVE.RIGHT.v1.png)
 

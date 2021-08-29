@@ -6,6 +6,16 @@
 
  ---
 
+ #### UPDATE 210829
+
+ I'd like to change the **cap** - to make it less about 2021!
+
+ Then I can sell them next year if I need to!
+ 
+ [UPDATE on 29th August is HERE!](cap.md)
+
+ ---
+
 #### UPDATE 210823
 
 Oh no - the coloured blocks are not opaque and there are a few errors and inconsistencies.

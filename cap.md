@@ -61,12 +61,17 @@ You may need to use the SVG to do this, there is a link above.
 
 The bill can have the two _hash tags_ on top and the _twitter handle_ on the bottom - using your yellow and purple colours (nice) but this text ...
 
-<img width="80%" src="PRIMALdesigns/vis2021.CAP.bill.top.v2.png"/>
+<img width="80%" src="PRIMALdesigns/visLogo.2021.CAP.bill.72.png"/>
+
+
+Here are the detailed designs!
+
+<img width="80%" src="PRIMALdesigns/vis2021.CAP.bill.top.v2.72.png"/>
 
 [vis2021.CAP.bill.top.v2.png](PRIMALdesigns/vis2021.CAP.bill.top.v2.png)
 
 
-<img width="80%" src="PRIMALdesigns/vis2021.CAP.bill.underside.v2.png"/>
+<img width="80%" src="PRIMALdesigns/vis2021.CAP.bill.underside.v2.72.png"/>
 
 [vis2021.CAP.bill.underside.v2.png](PRIMALdesigns/vis2021.CAP.bill.underside.v2.png)
 

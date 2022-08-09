@@ -18,6 +18,7 @@ Hi James / PRIMAL - here is the artwork for the 2022 **Vélo Club de VIS** jerse
 I am providing PDFs, which should give you the **vectors** - **please confirm that youre design folks can access the vectors!**
 
 In most cases the PRIMAL patterns are contained within the PDFs to show how things should fit, but you will need to do some work to get this right!
+You can see the PRIMAL patterns under some of the designs (hopefully you'll see the layters in the PDFs?). 
 
 I have not added a long sleeved jersey - you will need to stick the separate sleeves to the shoulders!
 
@@ -35,7 +36,7 @@ We have a rectangular design that you'll probably recognise.
 
 <img width="80%" src="2022/2022exportPDF/png/velo club jersey 2022.v3.FRONT.png"/>
 
-Obviously it's heavily based on this, obviously, but I have added a bit of a twist with the recursion.
+Obviously it's heavily based on this, but perhaps less obviously, but I have added a bit of a twist with the recursion.
 
 <img width="60%" src="2022/laVieClairJersey.leMond.hampsten.jpeg"/>
 

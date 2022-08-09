@@ -44,10 +44,10 @@ The problem with the rectangle is that I want it to fit fully on all jerseys, bu
 
 Also, your patterns mean that the top of the design may get a bit lost in the sleeves (which touch the collar, unlike in the original where the sleeves start at the shoulders!)
 
-The most importanrt things are that ...
+The most important things are that ...
 
  * **the red rectangle reaches the sleeve join at the top**
- * **the VéLOOK text does not go past the zipper - like the original!
+ * **the VéLOOK text does not go past the zipper - like the original!**
 
 You will need to figure out the scaling from that.
 

@@ -63,7 +63,7 @@ Only rescale in ways that maintain aspect ratios and all relative text sizes and
 
 Here is a link to the file - right click to download (probably).
 
-[velo club jersey 2022.v3.FRONT.pdf](2022/2022exportPDF/png/velo%20club%20jersey%202022.v3.FRONT.pdf)
+[velo club jersey 2022.v3.FRONT.pdf](2022/2022exportPDF/velo%20club%20jersey%202022.v3.FRONT.pdf)
 
 
 ### COLLAR
@@ -74,7 +74,7 @@ I have attempted to fit everything inside the red lines on the pattern but you m
 
 Here is a link to the file - right click to download (probably), or click the image.
 
-[velo club jersey 2022.v3.COLLAR.pdf](2022/2022exportPDF/png/velo%20club%20jersey%202022.v3.COLLAR.pdf)
+[velo club jersey 2022.v3.COLLAR.pdf](2022/2022exportPDF/velo%20club%20jersey%202022.v3.COLLAR.pdf)
 
 
 ### SIDE PANELS
@@ -83,7 +83,7 @@ Feel free to lose some of the stuff at the edges, but get the squares and logo t
 
 <img width="80%" src="2022/2022exportPDF/png/velo club jersey 2022.v3.SIDE.png"/>
 
-[velo club jersey 2022.v3.SIDE.pdf](2022/2022exportPDF/png/velo%20club%20jersey%202022.v3.SIDE.pdf)
+[velo club jersey 2022.v3.SIDE.pdf](2022/2022exportPDF/velo%20club%20jersey%202022.v3.SIDE.pdf)
 
 
 ### SLEEVES
@@ -99,7 +99,7 @@ Long sleeved cuff height should be the same as the short sleeved cuff height tha
 
 <img width="80%" src="2022/2022exportPDF/png/velo club jersey 2022.v3.ARMS.png"/>
 
-[velo club jersey 2022.v3.ARMS.pdf](2022/2022exportPDF/png/velo%20club%20jersey%202022.v3.ARMS.pdf)
+[velo club jersey 2022.v3.ARMS.pdf](2022/2022exportPDF/velo%20club%20jersey%202022.v3.ARMS.pdf)
 
 
 ### SLEEVE
@@ -108,7 +108,7 @@ These are for the shoulders and the tops of the long sleeved sleeves.
 
 <img width="80%" src="2022/2022exportPDF/png/velo club jersey 2022.v3.SLEEVE.png"/>
 
-[velo club jersey 2022.v3.SLEEVE.pdf](2022/2022exportPDF/png/velo%20club%20jersey%202022.v3.SLEEVE.pdf)
+[velo club jersey 2022.v3.SLEEVE.pdf](2022/2022exportPDF/velo%20club%20jersey%202022.v3.SLEEVE.pdf)
 
 The **KITWARE** logo should show at the front when riding.
 
@@ -125,7 +125,7 @@ The back looks like this!
 
 <img width="80%" src="2022/2022exportPDF/png/velo club jersey 2022.v3.BACK.v4.png"/>
 
-[velo club jersey 2022.v3.BACK.v4.pdf](2022/2022exportPDF/png/velo%20club%20jersey%202022.v3.BACK.v4.pdf)
+[velo club jersey 2022.v3.BACK.v4.pdf](2022/2022exportPDF/velo%20club%20jersey%202022.v3.BACK.v4.pdf)
 
 I want the two patterns to be as big as possible - it's OK if we lose a bit on the smallest jersey sizes, so I have fitted them to the black size line (medium?).
 

@@ -29,166 +29,108 @@ J.
 
 ---
 
+### FRONT
+
+We have a rectangular design that you'll probably recognise.
+
+<img width="80%" src="2022/2022exportPDF/png/velo club jersey 2022.FRONT.png"/>
+
+Obviously it's heavily based on this, obviously, but I have added a bit of a twist with the recursion.
+
+<img width="60%" src="2022/laVieClairJersey.leMond.hampsten.jpeg"/>
+
+
+The problem with the rectangle is that I want it to fit fully on all jerseys, but they are evidently different sizes.
+
+Also, your patterns mean that the top of the design may get a bit lost in the sleeves (which touch the collar, unlike in the original where the sleeves start at the shoulders!)
+
+The most importanrt things are that ...
+
+ * **the red rectangle reaches the sleeve join at the top**
+ * **the VéLOOK text does not go past the zipper - like the original!
+
+You will need to figure out the scaling from that.
+
+Also, I don't really want the blue and white rectangles at the side to be visible at all, but they may need to be for larger sizes.
+These are just colours that can be used around the edges to fit in with the side colours (see later).
+
+Try to fit the central column (grey, white, red, yellow) to fill as much of the jersey as possible.
+
+Only rescale in ways that maintain aspect ratios and all relative text sizes and line widths.
+<br/>Thanks!
+
+
+Here is a link to the file - right click to download (probably).
+
+[velo club jersey 2022.FRONT.pdf](2022/2022exportPDF/png/velo%20club%20jersey%202022.FRONT.pdf)
+
+
 ### COLLAR
 
 I have attempted to fit everything inside the red lines on the pattern but you may have to rescale or reposition a little :
 
-Here is the file - right click to download (probably)
-
 <img width="80%" src="2022/2022exportPDF/png/velo club jersey 2022.v3.COLLAR.png"/>
 
-[velo club jersey 2022.v3.COLLAR.pdf](2022/2022exportPDF/png/velo club jersey 2022.v3.COLLAR.pdf)
+Here is a link to the file - right click to download (probably), or click the image.
+
+[velo club jersey 2022.v3.COLLAR.pdf](2022/2022exportPDF/png/velo%20club%20jersey%202022.v3.COLLAR.pdf)
+
 
 ### SIDE PANELS
 
-#### Left!
-
-So this is the _cyclists'_ left!
-So when in tuck the words will be readable.
-
 Feel free to lose some of the stuff at the edges, but get the squares and logo to show in the red zone on the pattern (we need these to be seen on all jerseys of all sizes).
 
-<img width="80%" src="PRIMALdesigns/visLogo.2021.SIDE.LEFT.v1.png"/>
+<img width="80%" src="2022/2022exportPDF/png/velo club jersey 2022.SIDE.png"/>
 
-[visLogo.2021.SIDE.LEFT.v1.png](PRIMALdesigns/visLogo.2021.SIDE.LEFT.v1.png)
+[velo club jersey 2022.SIDE.pdf](2022/2022exportPDF/png/velo%20club%20jersey%202022.FRONT.pdf)
 
-
-#### Right!
-
-So this is the _cyclists'_ right!
-So when in tuck the words will be readable.
-
-Feel free to lose some of the stuff at the edges, but get the squares and logo to show in the red zone on the pattern (we need these to be seen on all jerseys of all sizes).
-
-<img width="80%" src="PRIMALdesigns/visLogo.2021.SIDE.RIGHT.v1.png"/>
-
-[visLogo.2021.SIDE.RIGHT.v1.png](PRIMALdesigns/visLogo.2021.SIDE.RIGHT.v1.png)
 
 ### SLEEVES
 
-I want the designs on each sleeve to be the opposite one to the one on the side!
-
-Feel free to lose some of the stuff at the edges, but get the squares and logo to show in the red zone on the pattern and on one side of the sleeve.
-
-Ideally I would like the logo and squares of text to be below the elbow. I worry that my designs have the text too big, so I have also added separate backgrounds and text that you can add together.
-
-**IMPORTANT** - I used 80% opacity so that you can see the warped grid through the text blocks. Please do the same!
 
 I don't have a template for sleeves and so am guessing on sizes and dimensions here!
 
 The designs are really for separate sleeves, but I hope you can make long sleeved jerseys by just adding these designs to the shoulder patterns!
+Keep the black cuff on the upper arm of the long sleeved jerseys (just add these arem designs to the end).
 
-#### Left!
+Scale the cuff and text so that the text is just about readable - text covers 60% of the circumference of the arm at the wrist.
+Long sleeved cuff height should be the same as the short sleeved cuff height that is at the top of the arm.
 
-This is the _cyclist's_ left sleeve.
-Lettering should be on the forearm.
+<img width="80%" src="2022/2022exportPDF/png/velo club jersey 2022.ARMS.png"/>
 
-<img width="80%" src="PRIMALdesigns/visLogo.2021.SLEEVE.LEFT.v1.72.png"/>
+[velo club jersey 2022.ARMS.pdf](2022/2022exportPDF/png/velo%20club%20jersey%202022.ARMS.pdf)
 
-[visLogo.2021.SLEEVE.LEFT.v1.png](PRIMALdesigns/visLogo.2021.SLEEVE.LEFT.v1.png)
 
-##### Separate Background
+### SLEEVE
 
-<img width="80%" src="PRIMALdesigns/visLogo.2021.SLEEVE.LEFT.nologo.png"/>
+These are for the shoulders and the tops of the long sleeved sleeves.
 
-[visLogo.2021.SLEEVE.LEFT.nologo.png](PRIMALdesigns/visLogo.2021.SLEEVE.LEFT.nologo.png)
+<img width="80%" src="2022/2022exportPDF/png/velo club jersey 2022.SLEEVE.png"/>
 
-##### Separate Logo Lettering
+[velo club jersey 2022.SLEEVE.pdf](2022/2022exportPDF/png/velo%20club%20jersey%202022.SLEEVE.pdf)
 
-This may need to be added to the above background to make it small enough to fit below the elbow.
+The **KITWARE** logo should show at the front when riding.
 
-<img width="80%" src="PRIMALdesigns/visLogo.2021.SLEEVE.LEFT.logo.png"/>
+The coloured bars on the cuff should be about square to the arm (on the side).
 
-[visLogo.2021.SLEEVE.LEFT.logo.png](PRIMALdesigns/visLogo.2021.SLEEVE.LEFT.logo.png)
+The text at top should run along the top of the shoulder!
 
-#### Right!
-
-This is the _cyclist's_ right sleeve.
-Lettering should be on the forearm.
-
-<img width="80%" src="PRIMALdesigns/visLogo.2021.SLEEVE.RIGHT.v1.72.png"/>
-
-[visLogo.2021.SLEEVE.RIGHT.v1.png](PRIMALdesigns/visLogo.2021.SLEEVE.RIGHT.v1.png)
-
-##### Separate Background
-
-<img width="80%" src="PRIMALdesigns/visLogo.2021.SLEEVE.RIGHT.nologo.png"/>
-
-[visLogo.2021.SLEEVE.RIGHT.nologo.png](PRIMALdesigns/visLogo.2021.SLEEVE.RIGHT.nologo.png)
-
-##### Separate Logo Lettering
-
-This may need to be added to the above background to make it small enough to fit below the elbow.
-
-<img width="80%" src="PRIMALdesigns/visLogo.2021.SLEEVE.RIGHT.logo.png"/>
-
-[visLogo.2021.SLEEVE.RIGHT.logo.png](PRIMALdesigns/visLogo.2021.SLEEVE.RIGHT.logo.png)
-
-### SHOULDERS
-
-I think these are both the same.
-
-<img width="80%" src="PRIMALdesigns/vis2021.shoulder.VIS.png"/>
-
-[vis2021.shoulder.VIS.png](PRIMALdesigns/vis2021.shoulder.VIS.png)
-
-Can you align the graphic so that it looks like this - with the logo / word central and _just above the stitching of the cuff_?
-
-Here is the right sleeve with the background removed to show how things should be lined up.
-
-<img width="80%" src="PRIMALdesigns/vis2021.shoulder.PRIMAL.png"/>
+You may need to mvoe things!
 
 
 ### BACK
 
 The back looks like this!
 
-<img width="80%" src="PRIMALdesigns/vis2021.back.VIS.png"/>
+<img width="80%" src="2022/2022exportPDF/png/velo club jersey 2022.BACK.v4.png"/>
 
-[vis2021.back.VIS.png ](PRIMALdesigns/vis2021.back.VIS.png)
+[velo club jersey 2022.BACK.v4.pdf](2022/2022exportPDF/png/velo%20club%20jersey%202022.BACK.v4.pdf)
 
-It should be mostly within the red lines on the pattern, but **BIG** like this:
+I want the two patterns to be as big as possible - it's OK if we lose a bit on the smallest jersey sizes, so I have fitted them to the black size line (medium?).
 
-<img width="80%" src="PRIMALdesigns/vis2021.back.PRIMAL.png"/>
+I hope that the top of the pattern on the pocket can be below the seam stitching.
 
-And then,  I also want the pockets to have a different design on them. In fact I want this design to go just above the pockets, as shown here with this slightly transparent version to show positioning.
-
-<img width="80%" src="PRIMALdesigns/visLogo.2021.POCKETS.PRIMAL.v1.png"/>
-
-I hope that each square can go on a different pocket and the stitching will go between the squares.
-
-Here's the pocket / above pocket artwork:
-
-<img width="80%" src="PRIMALdesigns/visLogo.2021.POCKETS.VIS.png"/>
-
-[visLogo.2021.POCKETS.VIS.png](PRIMALdesigns/visLogo.2021.POCKETS.VIS.png)
-
-_I can send vector art for this bit if this would make things easier_.
-
-The final thing should be positioned like this.
-<br/>Notice that the grid starts exactly half way through a line of big circles!<br/>_That's important!_
-
-<img width="80%" src="PRIMALdesigns/visLogo.2021.BACK.PRIMAL.png"/>
-
-Here's a full mock up in case this is easier to fit:
-
-<img width="80%" src="PRIMALdesigns/visLogo.2021.BACK.VIS.png"/>
-
-[visLogo.2021.BACK.VIS.png](PRIMALdesigns/visLogo.2021.BACK.VIS.png)
-
-### FRONT
-
-OK - here's the front!
-
-<img width="80%" src="PRIMALdesigns/visLogo.2021.FRONT.VIS.png"/>
-
-[visLogo.2021.FRONT.VIS.png](PRIMALdesigns/visLogo.2021.FRONT.VIS.png)
-
-And here's how it should fit with your template.
-
-<img width="80%" src="PRIMALdesigns/visLogo.2021.FRONT.PRIMAL.png"/>
-
-The **V** of Velo and the **21** need to be just about within the red lines on the pattern as these must be on all the jerseys.
+The three pieces of coloured text need to be above the pocket.
 
 ---
 

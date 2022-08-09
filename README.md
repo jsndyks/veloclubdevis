@@ -53,7 +53,7 @@ The most important things are that ...
 You will need to figure out the scaling from that.
 
 Also, I don't really want the blue and white rectangles at the side to be visible at all, but they may need to be for larger sizes.
-These are just colours that can be used around the edges to fit in with the side colours (see later).
+These are just colours that can be used around the edges to fit in with the side colours (see later). Look at Hampsten and LeMond - they have tiny thin bits of blue and white at the edges of the rectangle to fill the space - so this is your wiggle room!
 
 Try to fit the central column (grey, white, red, yellow) to fill as much of the jersey as possible.
 

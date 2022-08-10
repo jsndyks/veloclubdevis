@@ -29,6 +29,16 @@ Hope this is a good start.
 J.
 
 ---
+### FONTS
+
+Oh, you'll likely need the fonts!
+
+ * [Bree Serif](https://fonts.google.com/specimen/Bree+Serif)
+ * [Scratchies](https://www.dafont.com/scratchies.font)
+ * [MADE outer sans](https://www.dafont.com/made-outer-sans.font)
+ * Helvetica Neue - _I am guessing you have this?_
+
+---
 
 ### FRONT
 

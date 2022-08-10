@@ -114,9 +114,13 @@ I found this, and realised that the upturned _Citroën_ logo is a pair of Vs for
 So I need to add these. 
 
 Can we change the side panels to include this design?
-<br/> I'd like all of the rectangles to fit in the red zone, so you'll need to extent the background colour.
+
+<img width="80%" src="2022/2022exportPDF/png/velo club jersey 2022.v3.SIDE.v2.png"/>
 
 [velo club jersey 2022.v3.SIDE.v2.pdf](2022/2022exportPDF/velo%20club%20jersey%202022.v3.SIDE.v2.pdf)
+
+I'd like all of the rectangles to fit in the red zone, so you'll need to extent the background colour.
+
 
 
 ### SLEEVES
@@ -170,3 +174,4 @@ The three pieces of coloured text need to be above the pocket.
 
 Jason **DYKES**
 <br/>09/08/22
+<br/>10/08/22

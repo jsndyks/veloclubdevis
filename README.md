@@ -97,11 +97,26 @@ Here is a link to the file - right click the link to download (probably):
 
 ### SIDE PANELS
 
+#### ORIGINAL
+
 Feel free to lose some of the stuff at the edges, but get the squares and logo to show in the red zone on the pattern (we need these to be seen on all jerseys of all sizes).
 
 <img width="80%" src="2022/2022exportPDF/png/velo club jersey 2022.v3.SIDE.png"/>
 
 [velo club jersey 2022.v3.SIDE.pdf](2022/2022exportPDF/velo%20club%20jersey%202022.v3.SIDE.pdf)
+
+#### UPDATE
+
+I found this, and realised that the upturned _Citroën_ logo is a pair of Vs for **Velo Club de VIS**!
+
+<img width="300" src="2022/laVieClair.SHORTS.jpeg"/>
+
+So I need to add these. 
+
+Can we change the side panels to include this design?
+<br/> I'd like all of the rectangles to fit in the red zone, so you'll need to extent the background colour.
+
+[velo club jersey 2022.v3.SIDE.v2.pdf](2022/2022exportPDF/velo%20club%20jersey%202022.v3.SIDE.v2.pdf)
 
 
 ### SLEEVES
@@ -134,7 +149,7 @@ The coloured bars on the cuff should be about square to the arm (on the side).
 
 The text at top should run along the top of the shoulder!
 
-You may need to mvoe things!
+You may need to move things!
 
 
 ### BACK

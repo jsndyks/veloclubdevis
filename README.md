@@ -48,7 +48,7 @@ We have a rectangular design that you'll probably recognise.
 
 Obviously it's heavily based on this, but perhaps less obviously, but I have added a bit of a twist with the recursion.
 
-<img width="60%" src="2022/laVieClairJersey.leMond.hampsten.jpeg"/>
+<img width="300" src="2022/laVieClairJersey.leMond.hampsten.jpeg"/>
 
 
 The problem with the rectangle is that I want it to fit fully on all jerseys, but they are evidently different sizes.

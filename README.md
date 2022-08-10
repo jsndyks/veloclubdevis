@@ -55,12 +55,13 @@ The problem with the rectangle is that I want it to fit fully on all jerseys, bu
 
 Also, your patterns mean that the top of the design may get a bit lost in the sleeves (which touch the collar, unlike in the original where the sleeves start at the shoulders!)
 
-So you may have to do something like this:
-<img width="40%" src="https://cdn.shopify.com/s/files/1/0844/4811/products/LaVieClaire-Angle_1024x1024.jpg"/>
-Rather than this:
-<img width="40%" src="https://cdn.shopify.com/s/files/1/1380/4501/products/2018-06-18-santini-la-vie-claire-wonder-look-retro-cycling-jersey-0_2000x.jpg"/>
+So you may have to do something like this:<br/>
+<img width="300" src="https://cdn.shopify.com/s/files/1/0844/4811/products/LaVieClaire-Angle_1024x1024.jpg"/>
 
-The forst one doesn't look as good as the original, but do what you can!
+Rather than this:<br/>
+<img width="300" src="https://cdn.shopify.com/s/files/1/1380/4501/products/2018-06-18-santini-la-vie-claire-wonder-look-retro-cycling-jersey-0_2000x.jpg"/>
+
+The first one doesn't look as good as the original, but do what you can!
 
 The most important things are that ...
 

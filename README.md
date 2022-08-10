@@ -66,7 +66,7 @@ The first one doesn't look as good as the original, but do what you can!
 The most important things are that ...
 
  * **the red rectangle reaches the sleeve join at the top**
- * **the VéLOOK text does not go past the zipper - like the original!**
+ * **the VéLOOK text does not go past the zipper - like the original - it needs to be where _radar_ is on the jerseys shown above** 
 
 You will need to figure out the scaling from that.
 

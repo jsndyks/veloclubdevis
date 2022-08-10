@@ -90,7 +90,7 @@ I have attempted to fit everything inside the red lines on the pattern but you m
 
 <img width="80%" src="2022/2022exportPDF/png/velo club jersey 2022.v3.COLLAR.png"/>
 
-Here is a link to the file - right click to download (probably), or click the image.
+Here is a link to the file - right click the link to download (probably):
 
 [velo club jersey 2022.v3.COLLAR.pdf](2022/2022exportPDF/velo%20club%20jersey%202022.v3.COLLAR.pdf)
 

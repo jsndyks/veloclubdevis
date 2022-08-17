@@ -174,7 +174,7 @@ The three pieces of coloured text need to be above the pocket.
 
 Can you do anything with this?
 
-<img width="80%" src="2022/2022exportPDF/png/velo club jersey 2022.v4.SHORTS.png"/>
+<img width="80%" src="2022/2022exportPDF/png/velo club jersey 2022.v4.SHORTS.1200.png"/>
 
 [velo club jersey 2022.v4.SHORTS.pdf](2022/2022exportPDF/velo%20club%20jersey%202022.v4.SHORTS.pdf)
 

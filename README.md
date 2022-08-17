@@ -173,6 +173,8 @@ The three pieces of coloured text need to be above the pocket.
 ### SHORTS
 
 Can you do anything with this?
+<br/>
+Click below for the PDF - it would be great to see a mockup!
 
 <img width="80%" src="2022/2022exportPDF/png/velo club jersey 2022.v4.SHORTS.1200.png"/>
 

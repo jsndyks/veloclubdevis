@@ -188,6 +188,9 @@ We need that for the contrast with the text.
 Actually, given the contrast and shape I'd like the text rearranging on the back panel.
 <br/> Can you do it like this - bigger VIS above the smaller words?
 
+This redesign also reduces the size of the background print a little to get more of the range of colours in - from light yellow to dark purple.
+The initial design just goes from orange to pink
+
 <img width="80%" src="2022/2022exportPDF/png/velo club jersey 2022.v4.SHORTS.v3.crop.900.png"/>
 
 [velo club jersey 2022.v4.SHORTS.v3.crop.pdf](2022/2022exportPDF/velo%20club%20jersey%202022.v4.SHORTS.v3.crop.pdf)

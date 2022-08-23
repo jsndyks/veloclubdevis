@@ -180,9 +180,22 @@ Click below for the PDF - it would be great to see a mockup!
 
 [velo club jersey 2022.v4.SHORTS.pdf](2022/2022exportPDF/velo%20club%20jersey%202022.v4.SHORTS.pdf)
 
+#### UPDATE
+
+First design looks great, but make sure colours are bright and not faded!
+We need that for the contrast with the text.
+
+Actually, given the contrast and shape I'd like the text rearranging on the back panel.
+<br/> Can you do it like this - bigger VIS above the smaller words?
+
+<img width="80%" src="2022/2022exportPDF/png/velo club jersey 2022.v4.SHORTS.v3.900.png"/>
+
+[velo club jersey 2022.v4.SHORTS.v3.crop.pdf](2022/2022exportPDF/velo%20club%20jersey%202022.v4.SHORTS.v3.crop.pdf)
+
 ---
 
 Jason **DYKES**
 <br/>09/08/22
 <br/>10/08/22
 <br/>17/08/22
+<br/>23/08/22

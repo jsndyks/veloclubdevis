@@ -195,6 +195,11 @@ The initial design just goes from orange to pink
 
 [velo club jersey 2022.v4.SHORTS.v3.crop.pdf](2022/2022exportPDF/velo%20club%20jersey%202022.v4.SHORTS.v3.crop.pdf)
 
+Maybe we can get the logo onto the cuff too?
+
+<img width="80%" src="2022/2022exportPDF/png/velo club jersey 2022.v5.SHORTS.RIGHTCUFF.png"/>
+
+[velo club jersey 2022.v5.SHORTS.RIGHTCUFF.pdf](2022/2022exportPDF/velo%20club%20jersey%202022.v5.SHORTS.RIGHTCUFF.pdf)
 ---
 
 Jason **DYKES**
@@ -202,3 +207,4 @@ Jason **DYKES**
 <br/>10/08/22
 <br/>17/08/22
 <br/>23/08/22
+<br/>25/08/22

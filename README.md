@@ -200,6 +200,7 @@ Maybe we can get the logo onto the cuff too?
 <img width="80%" src="2022/2022exportPDF/png/velo club jersey 2022.v5.SHORTS.RIGHTCUFF.png"/>
 
 [velo club jersey 2022.v5.SHORTS.RIGHTCUFF.pdf](2022/2022exportPDF/velo%20club%20jersey%202022.v5.SHORTS.RIGHTCUFF.pdf)
+
 ---
 
 Jason **DYKES**
